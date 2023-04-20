@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by pond6 on 2023/02/22.
+  
+*/
+"NSBluetoothAlwaysUsageDescription" = "Bluetoothを利用してBOCCOと接続します";
+"NSBluetoothPeripheralUsageDescription" = "Bluetoothを利用してBOCCOと接続します";
+"NSCameraUsageDescription" = "メンバー招待のためのQRコードのスキャンやチャットルームに送信する写真を撮影します";
+"NSMicrophoneUsageDescription" = "チャットルームで音声メッセージを送信します";
+"NSPhotoLibraryUsageDescription" = "アイコン画像の設定やチャットルームでの写真を送信します";
