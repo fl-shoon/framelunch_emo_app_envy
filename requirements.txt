@@ -1,0 +1,9 @@
+# !! If you edit this file then make sure to delete requirements.lock and then run ./cli.py
+
+fire
+pyyaml
+pycryptodome
+aiohttp
+aiodns
+aiojobs
+setproctitle
